@@ -11,11 +11,13 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🐍 Contribution Snake
 
-![UOMWO's GitHub stats](https://github-readme-stats.vercel.app/api?username=UOMWO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UOMWO&layout=compact&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UOMWO/UOMWO/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UOMWO/UOMWO/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/UOMWO/UOMWO/output/github-snake.svg">
+</picture>
 
 ---
 
