@@ -11,7 +11,6 @@
 
 ---
 
-<!-- 如果以后挂了代理，可以把下面这几行的注释符号去掉，图片就会显示
 ### 📊 My GitHub Stats
 
 ![UOMWO's GitHub stats](https://github-readme-stats.vercel.app/api?username=UOMWO&show_icons=true&theme=radical)
@@ -19,7 +18,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UOMWO&layout=compact&theme=radical)
 
 ---
--->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=UOMWO&color=blueviolet&style=flat-square)
 
