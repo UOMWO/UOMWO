@@ -4,10 +4,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 Bachelor of Engineering, Beijing Jiaotong University<br>
-🎓 Master of Engineering, Zhejiang University<br>
-🌱 I'm currently exploring the **open-source world**<br>
-💬 Feel free to ask me anything, let's connect and chat!
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li>🎓 Bachelor of Engineering, Beijing Jiaotong University</li>
+  <li>🎓 Master of Engineering, Zhejiang University</li>
+  <li>🌱 I'm currently exploring the <b>open-source world</b></li>
+  <li>💬 Feel free to ask me anything, let's connect and chat!</li>
+</ul>
 
 ---
 
